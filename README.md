@@ -1,1 +1,1 @@
-# CrushCandies
+This is a simple candy crush game implemented as a part of mini project
